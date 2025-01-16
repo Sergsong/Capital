@@ -223,5 +223,7 @@ namespace Capital
         }
 
         #endregion
+
+        // В итоге нет графика
     }
 }
